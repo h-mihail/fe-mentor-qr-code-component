@@ -41,7 +41,11 @@ main {
   border-radius: 10px;
 }
 
+.card-title {
+  font-size: 22px;
+}
+
 .card-subtitle {
   color: hsl(220, 15%, 55%);
-  text-indent: 16px;
+  margin-top: 0;
 }
